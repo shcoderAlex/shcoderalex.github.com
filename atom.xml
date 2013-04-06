@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+  <title><![CDATA[My Octopress Blog]]></title>
+  <link href="http://shcoderAlex.github.com/atom.xml" rel="self"/>
+  <link href="http://shcoderAlex.github.com/"/>
+  <updated>2013-04-06T10:31:12+06:00</updated>
+  <id>http://shcoderAlex.github.com/</id>
+  <author>
+    <name><![CDATA[Your Name]]></name>
+    
+  </author>
+  <generator uri="http://octopress.org/">Octopress</generator>
+
+  
+  <entry>
+    <title type="html"><![CDATA[Zombie Ninjas Attack]]></title>
+    <link href="http://shcoderAlex.github.com/blog/2013/01/19/zombie-ninjas-attack/"/>
+    <updated>2013-01-19T14:42:00+06:00</updated>
+    <id>http://shcoderAlex.github.com/blog/2013/01/19/zombie-ninjas-attack</id>
+    <content type="html"><![CDATA[<h1>Gallery 1</h1>
+
+
+<p><a href="http://shcoderAlex.github.com/images/galleries/gallery_1/image1.jpg" rel="shadowbox" title="image1"><img src="http://shcoderAlex.github.com/images/galleries/gallery_1/thumbs/image1.jpg" /></a>
+<a href="http://shcoderAlex.github.com/images/galleries/gallery_1/image2.jpg" rel="shadowbox" title="image2"><img src="http://shcoderAlex.github.com/images/galleries/gallery_1/thumbs/image2.jpg" /></a></p>
+
+<h2>Gallery 2</h2>
+
+
+<p><a href="http://shcoderAlex.github.com/images/galleries/gallery_2/imag2.jpg" rel="shadowbox" title="imag2"><img src="http://shcoderAlex.github.com/images/galleries/gallery_2/thumbs/imag2.jpg" /></a>
+<a href="http://shcoderAlex.github.com/images/galleries/gallery_2/image1.jpg" rel="shadowbox" title="image1"><img src="http://shcoderAlex.github.com/images/galleries/gallery_2/thumbs/image1.jpg" /></a></p>
+]]></content>
+  </entry>
+  
+</feed>

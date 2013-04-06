@@ -1,0 +1,4 @@
+User-agent: *
+Disallow: 
+
+Sitemap: http://shcoderAlex.github.com/sitemap.xml 
