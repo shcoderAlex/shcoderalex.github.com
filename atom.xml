@@ -4,7 +4,7 @@
   <title><![CDATA[My Octopress Blog]]></title>
   <link href="http://shcoderAlex.github.com/atom.xml" rel="self"/>
   <link href="http://shcoderAlex.github.com/"/>
-  <updated>2013-04-06T10:33:48+06:00</updated>
+  <updated>2013-04-06T11:48:41+06:00</updated>
   <id>http://shcoderAlex.github.com/</id>
   <author>
     <name><![CDATA[Your Name]]></name>
@@ -21,34 +21,37 @@
     <content type="html"><![CDATA[<h1>Gallery 1</h1>
 
 
-<p><a href="http://shcoderAlex.github.com/images/galleries/gallery_1/2013-01-23 09.41.37.jpg" rel="shadowbox" title="2013-01-23 09.41.37"><img src="http://shcoderAlex.github.com/images/galleries/gallery_1/thumbs/2013-01-23 09.41.37.jpg" /></a>
-<a href="http://shcoderAlex.github.com/images/galleries/gallery_1/2013-03-13 14.58.22.jpg" rel="shadowbox" title="2013-03-13 14.58.22"><img src="http://shcoderAlex.github.com/images/galleries/gallery_1/thumbs/2013-03-13 14.58.22.jpg" /></a>
-<a href="http://shcoderAlex.github.com/images/galleries/gallery_1/DSC_0054.jpg" rel="shadowbox" title="DSC_0054"><img src="http://shcoderAlex.github.com/images/galleries/gallery_1/thumbs/DSC_0054.jpg" /></a>
-<a href="http://shcoderAlex.github.com/images/galleries/gallery_1/DSC_0064.jpg" rel="shadowbox" title="DSC_0064"><img src="http://shcoderAlex.github.com/images/galleries/gallery_1/thumbs/DSC_0064.jpg" /></a>
-<a href="http://shcoderAlex.github.com/images/galleries/gallery_1/DSC_0080.jpg" rel="shadowbox" title="DSC_0080"><img src="http://shcoderAlex.github.com/images/galleries/gallery_1/thumbs/DSC_0080.jpg" /></a>
-<a href="http://shcoderAlex.github.com/images/galleries/gallery_1/DSC_0085.jpg" rel="shadowbox" title="DSC_0085"><img src="http://shcoderAlex.github.com/images/galleries/gallery_1/thumbs/DSC_0085.jpg" /></a>
-<a href="http://shcoderAlex.github.com/images/galleries/gallery_1/DSC_0088.jpg" rel="shadowbox" title="DSC_0088"><img src="http://shcoderAlex.github.com/images/galleries/gallery_1/thumbs/DSC_0088.jpg" /></a>
-<a href="http://shcoderAlex.github.com/images/galleries/gallery_1/DSC_0089.jpg" rel="shadowbox" title="DSC_0089"><img src="http://shcoderAlex.github.com/images/galleries/gallery_1/thumbs/DSC_0089.jpg" /></a>
-<a href="http://shcoderAlex.github.com/images/galleries/gallery_1/DSC_0101.jpg" rel="shadowbox" title="DSC_0101"><img src="http://shcoderAlex.github.com/images/galleries/gallery_1/thumbs/DSC_0101.jpg" /></a>
-<a href="http://shcoderAlex.github.com/images/galleries/gallery_1/DSC_0104.jpg" rel="shadowbox" title="DSC_0104"><img src="http://shcoderAlex.github.com/images/galleries/gallery_1/thumbs/DSC_0104.jpg" /></a>
-<a href="http://shcoderAlex.github.com/images/galleries/gallery_1/DSC_0110.jpg" rel="shadowbox" title="DSC_0110"><img src="http://shcoderAlex.github.com/images/galleries/gallery_1/thumbs/DSC_0110.jpg" /></a>
-<a href="http://shcoderAlex.github.com/images/galleries/gallery_1/DSC_0112.jpg" rel="shadowbox" title="DSC_0112"><img src="http://shcoderAlex.github.com/images/galleries/gallery_1/thumbs/DSC_0112.jpg" /></a>
-<a href="http://shcoderAlex.github.com/images/galleries/gallery_1/DSC_0113.jpg" rel="shadowbox" title="DSC_0113"><img src="http://shcoderAlex.github.com/images/galleries/gallery_1/thumbs/DSC_0113.jpg" /></a>
-<a href="http://shcoderAlex.github.com/images/galleries/gallery_1/DSC_0140.jpg" rel="shadowbox" title="DSC_0140"><img src="http://shcoderAlex.github.com/images/galleries/gallery_1/thumbs/DSC_0140.jpg" /></a>
-<a href="http://shcoderAlex.github.com/images/galleries/gallery_1/DSC_0144.jpg" rel="shadowbox" title="DSC_0144"><img src="http://shcoderAlex.github.com/images/galleries/gallery_1/thumbs/DSC_0144.jpg" /></a>
-<a href="http://shcoderAlex.github.com/images/galleries/gallery_1/DSC_0149.jpg" rel="shadowbox" title="DSC_0149"><img src="http://shcoderAlex.github.com/images/galleries/gallery_1/thumbs/DSC_0149.jpg" /></a>
-<a href="http://shcoderAlex.github.com/images/galleries/gallery_1/DSC_0160.jpg" rel="shadowbox" title="DSC_0160"><img src="http://shcoderAlex.github.com/images/galleries/gallery_1/thumbs/DSC_0160.jpg" /></a>
-<a href="http://shcoderAlex.github.com/images/galleries/gallery_1/DSC_0176.jpg" rel="shadowbox" title="DSC_0176"><img src="http://shcoderAlex.github.com/images/galleries/gallery_1/thumbs/DSC_0176.jpg" /></a>
-<a href="http://shcoderAlex.github.com/images/galleries/gallery_1/DSC_0237.jpg" rel="shadowbox" title="DSC_0237"><img src="http://shcoderAlex.github.com/images/galleries/gallery_1/thumbs/DSC_0237.jpg" /></a>
-<a href="http://shcoderAlex.github.com/images/galleries/gallery_1/DSC_0777_NEF_v1.jpg" rel="shadowbox" title="DSC_0777_NEF_v1"><img src="http://shcoderAlex.github.com/images/galleries/gallery_1/thumbs/DSC_0777_NEF_v1.jpg" /></a>
-<a href="http://shcoderAlex.github.com/images/galleries/gallery_1/image1.jpg" rel="shadowbox" title="image1"><img src="http://shcoderAlex.github.com/images/galleries/gallery_1/thumbs/image1.jpg" /></a>
-<a href="http://shcoderAlex.github.com/images/galleries/gallery_1/image2.jpg" rel="shadowbox" title="image2"><img src="http://shcoderAlex.github.com/images/galleries/gallery_1/thumbs/image2.jpg" /></a></p>
+<div id="gal">
+<a href="http://shcoderAlex.github.com/images/galleries/gallery_1/2013-01-23 09.41.37.jpg" rel="shadowbox" title="2013-01-23 09.41.37"><img src="http://shcoderAlex.github.com/images/galleries/gallery_1/medium/2013-01-23 09.41.37.jpg" /></a>
+<a href="http://shcoderAlex.github.com/images/galleries/gallery_1/2013-03-13 14.58.22.jpg" rel="shadowbox" title="2013-03-13 14.58.22"><img src="http://shcoderAlex.github.com/images/galleries/gallery_1/medium/2013-03-13 14.58.22.jpg" /></a>
+<a href="http://shcoderAlex.github.com/images/galleries/gallery_1/DSC_0054.jpg" rel="shadowbox" title="DSC_0054"><img src="http://shcoderAlex.github.com/images/galleries/gallery_1/medium/DSC_0054.jpg" /></a>
+<a href="http://shcoderAlex.github.com/images/galleries/gallery_1/DSC_0064.jpg" rel="shadowbox" title="DSC_0064"><img src="http://shcoderAlex.github.com/images/galleries/gallery_1/medium/DSC_0064.jpg" /></a>
+<a href="http://shcoderAlex.github.com/images/galleries/gallery_1/DSC_0080.jpg" rel="shadowbox" title="DSC_0080"><img src="http://shcoderAlex.github.com/images/galleries/gallery_1/medium/DSC_0080.jpg" /></a>
+<a href="http://shcoderAlex.github.com/images/galleries/gallery_1/DSC_0085.jpg" rel="shadowbox" title="DSC_0085"><img src="http://shcoderAlex.github.com/images/galleries/gallery_1/medium/DSC_0085.jpg" /></a>
+<a href="http://shcoderAlex.github.com/images/galleries/gallery_1/DSC_0088.jpg" rel="shadowbox" title="DSC_0088"><img src="http://shcoderAlex.github.com/images/galleries/gallery_1/medium/DSC_0088.jpg" /></a>
+<a href="http://shcoderAlex.github.com/images/galleries/gallery_1/DSC_0089.jpg" rel="shadowbox" title="DSC_0089"><img src="http://shcoderAlex.github.com/images/galleries/gallery_1/medium/DSC_0089.jpg" /></a>
+<a href="http://shcoderAlex.github.com/images/galleries/gallery_1/DSC_0101.jpg" rel="shadowbox" title="DSC_0101"><img src="http://shcoderAlex.github.com/images/galleries/gallery_1/medium/DSC_0101.jpg" /></a>
+<a href="http://shcoderAlex.github.com/images/galleries/gallery_1/DSC_0104.jpg" rel="shadowbox" title="DSC_0104"><img src="http://shcoderAlex.github.com/images/galleries/gallery_1/medium/DSC_0104.jpg" /></a>
+<a href="http://shcoderAlex.github.com/images/galleries/gallery_1/DSC_0110.jpg" rel="shadowbox" title="DSC_0110"><img src="http://shcoderAlex.github.com/images/galleries/gallery_1/medium/DSC_0110.jpg" /></a>
+<a href="http://shcoderAlex.github.com/images/galleries/gallery_1/DSC_0112.jpg" rel="shadowbox" title="DSC_0112"><img src="http://shcoderAlex.github.com/images/galleries/gallery_1/medium/DSC_0112.jpg" /></a>
+<a href="http://shcoderAlex.github.com/images/galleries/gallery_1/DSC_0113.jpg" rel="shadowbox" title="DSC_0113"><img src="http://shcoderAlex.github.com/images/galleries/gallery_1/medium/DSC_0113.jpg" /></a>
+<a href="http://shcoderAlex.github.com/images/galleries/gallery_1/DSC_0140.jpg" rel="shadowbox" title="DSC_0140"><img src="http://shcoderAlex.github.com/images/galleries/gallery_1/medium/DSC_0140.jpg" /></a>
+<a href="http://shcoderAlex.github.com/images/galleries/gallery_1/DSC_0144.jpg" rel="shadowbox" title="DSC_0144"><img src="http://shcoderAlex.github.com/images/galleries/gallery_1/medium/DSC_0144.jpg" /></a>
+<a href="http://shcoderAlex.github.com/images/galleries/gallery_1/DSC_0149.jpg" rel="shadowbox" title="DSC_0149"><img src="http://shcoderAlex.github.com/images/galleries/gallery_1/medium/DSC_0149.jpg" /></a>
+<a href="http://shcoderAlex.github.com/images/galleries/gallery_1/DSC_0160.jpg" rel="shadowbox" title="DSC_0160"><img src="http://shcoderAlex.github.com/images/galleries/gallery_1/medium/DSC_0160.jpg" /></a>
+<a href="http://shcoderAlex.github.com/images/galleries/gallery_1/DSC_0176.jpg" rel="shadowbox" title="DSC_0176"><img src="http://shcoderAlex.github.com/images/galleries/gallery_1/medium/DSC_0176.jpg" /></a>
+<a href="http://shcoderAlex.github.com/images/galleries/gallery_1/DSC_0237.jpg" rel="shadowbox" title="DSC_0237"><img src="http://shcoderAlex.github.com/images/galleries/gallery_1/medium/DSC_0237.jpg" /></a>
+<a href="http://shcoderAlex.github.com/images/galleries/gallery_1/DSC_0777_NEF_v1.jpg" rel="shadowbox" title="DSC_0777_NEF_v1"><img src="http://shcoderAlex.github.com/images/galleries/gallery_1/medium/DSC_0777_NEF_v1.jpg" /></a>
+<a href="http://shcoderAlex.github.com/images/galleries/gallery_1/image1.jpg" rel="shadowbox" title="image1"><img src="http://shcoderAlex.github.com/images/galleries/gallery_1/medium/image1.jpg" /></a>
+<a href="http://shcoderAlex.github.com/images/galleries/gallery_1/image2.jpg" rel="shadowbox" title="image2"><img src="http://shcoderAlex.github.com/images/galleries/gallery_1/medium/image2.jpg" /></a>
+</div>
+
 
 <h2>Gallery 2</h2>
 
 
-<p><a href="http://shcoderAlex.github.com/images/galleries/gallery_2/imag2.jpg" rel="shadowbox" title="imag2"><img src="http://shcoderAlex.github.com/images/galleries/gallery_2/thumbs/imag2.jpg" /></a>
-<a href="http://shcoderAlex.github.com/images/galleries/gallery_2/image1.jpg" rel="shadowbox" title="image1"><img src="http://shcoderAlex.github.com/images/galleries/gallery_2/thumbs/image1.jpg" /></a></p>
+<p><a href="http://shcoderAlex.github.com/images/galleries/gallery_2/imag2.jpg" rel="shadowbox" title="imag2"><img src="http://shcoderAlex.github.com/images/galleries/gallery_2/medium/imag2.jpg" /></a>
+<a href="http://shcoderAlex.github.com/images/galleries/gallery_2/image1.jpg" rel="shadowbox" title="image1"><img src="http://shcoderAlex.github.com/images/galleries/gallery_2/medium/image1.jpg" /></a></p>
 ]]></content>
   </entry>
   
